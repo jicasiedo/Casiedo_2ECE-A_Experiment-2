@@ -38,3 +38,5 @@ print("\nNormalized array (X_normalized): \n", X_normalized)
 ```
 
 ##### *Sample Result when running the code:*
+![Screenshot 2024-09-10 020049](https://github.com/user-attachments/assets/5d24ce57-3b9a-4a32-8e22-a3af33538cfe)
+\
